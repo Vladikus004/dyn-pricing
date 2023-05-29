@@ -1,0 +1,23 @@
+id                          unique id of offer
+obj_price                   flat price 
+obj_sq_price                price / area
+lifts_passenger             
+lifts_freight               
+house_build_year            build year of house
+house_ceiling_height        heighr of ceilings
+house_floors                number of floors in house
+house_infrastructure        nearby infrastructure (schools, kindergartens, parks)
+house_wall_type             type of wall
+house_yard                  nearby yards
+obj_area                    area of flat
+obj_balconies               count of balconies
+obj_living_area             living area
+obj_kitchen_area            kitchen area
+obj_rooms                   count of rooms 
+obj_floor                   floor of flat 
+obj_renovation              flat renovation 
+obj_window_view             window view
+calls_count                 number of calls received by the owner of the apartment 
+views_count                 number of views of the apartment
+address_name                address of the flat
+address_subways             subways in format (name, distance in km, time of foot, line name)
